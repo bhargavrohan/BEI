@@ -1,0 +1,38 @@
+﻿HM Number,Normalized Western,Bacteria ,Strain,Source,Gram,Phylum,Genus ,Count_Normalized,Oxygen,Motility
+HM-98,0.19375594,Actinomyces israelii,F0345,Oral Cavity,Positive,Actinobacteria,Actinomyces ,0.18,,
+HM-1089 ,0.220006,Actinomyces urogenitalis,S6-C4,Vagina,Positive,Actinobacteria,Actinomyces ,0.65,,
+HM-94 ,0.83246358,Actinomyces odontolyticus,F0309,Oral Cavity,Positive,Actinobacteria,Actinomyces ,0.955,Facultative,Nonmotile
+HM-1070 ,1.30029047,Actinomyces johnsonii,F0510,Oral Cavity,Positive,Actinobacteria,Actinomyces ,1,,
+HM-236 ,1.47338981,Actinomyces graevenitzii,C83,Sputum,Positive,Actinobacteria,Actinomyces ,1.727,Anaerobe,Nonmotile
+HM-238 ,1.63764193,Actinomyces viscosus,C505,Sputum,Positive,Actinobacteria,Actinomyces ,1.864,Anaerobe,Nonmotile
+HM-1266 ,2.26698133,Actinomyces neuii,MJR8396A,Vagina,Positive,Actinobacteria,Actinomyces ,2.125,,
+HM-1282,2.42,Alloscardovia omnicolens,CMW7705A,Vagina,Positive,Actinobacteria,Alloscardovia ,3.43478261,,
+HM-1152 ,1.20291698,Arthrobacter albus,DNF00011,Vagina,Positive,Actinobacteria,Arthrobacter ,,,
+HM-1084 ,1.528769,Atopobium parvulum,DNF00906,Vagina,Positive,Actinobacteria,Atopobium ,0.29,,
+HM-1035,1.66175419,Atopobium parvulum,CC14Z,GI Tract,Positive,Actinobacteria,Atopobium ,1.57,,
+HM-839,2.54067012,Atopobium sp.,F0494,Oral Cavity,Positive,Actinobacteria,Atopobium ,1.74,,
+HM-856,0.08,Bifidobacterium breve,HPH0326,GI Tract,Positive,Actinobacteria,Bifidobacterium ,0.65217391,,
+HM-846,0.47,Bifidobacterium longum subsp. longum,1-6B,GI Tract,Positive,Actinobacteria,Bifidobacterium ,0.92391304,Anaerobe,Nonmotile
+HM-1189,0.73,Bifidobacterium angulatum,F16_22,GI Tract,Positive,Actinobacteria,Bifidobacterium ,0.7173913,,
+HM-633,0.88,Bifidobacterium adolescentis,L2-32,GI Tract,Positive,Actinobacteria,Bifidobacterium ,1.28,Anaerobe,Nonmotile
+HM-30,1.2,Bifidobacterium sp.,12_1_47BFAA,GI Tract,Positive,Actinobacteria,Bifidobacterium ,2.17,,
+HM-1295 ,0.194007,Corynebacterium sp.,CMW7794,Vagina,Positive,Actinobacteria,Corynebacterium ,,,
+HM-784,0.27,Corynebacterium sp.,HFH0082,GI Tract,Positive,Actinobacteria,Corynebacterium ,0.61,,
+HM-1153,0.4139893,Corynebacterium tuscaniense,DNF00037,Vagina,Positive,Actinobacteria,Corynebacterium ,,,
+HM-109,1.205243423,Corynebacterium amycolatum,SK46,Skin ,Positive,Actinobacteria,Corynebacterium ,1.41,Aerobe,Nonmotile
+HM-857,2.26,Dermabacter sp.,HFH0086,GI Tract,Positive,Actinobacteria,Dermabacter ,1.66,,
+HM-1099,0.97,Eggerthella sp.,MVA1,Vagina,Positive,Actinobacteria,Eggerthella ,1.01,,
+HM-841 ,0.334571,Microbacterium sp.,F0373,Oral Cavity,Positive,Actinobacteria,Microbacterium ,0.22,,
+HM-114,0.844299054,Micrococcus luteus,SK58,Skin ,Positive,Actinobacteria,Micrococcus ,0.93,Aerobe,Nonmotile
+HM-125,0.22985502,Mobiluncus mulieris,UPII 28-I,Vagina,Positive,Actinobacteria,Mobiluncus ,0.6,,
+HM-1239,1.36,Olsenella sp.,DNF00959,Vagina,Positive,Actinobacteria,Olsenella ,1.09,,
+HM-877,1.75,Olsenella uli,MSTE5,Oral Cavity,Positive,Actinobacteria,Olsenella ,1.31,,
+HM-1052,0.54,Parvimonas micra,CC57A,GI Tract,Positive,Actinobacteria,Parvimonas ,0.7,,
+HM-1253,0.86,Parvimonas sp.,KA00067,Vagina,Positive,Actinobacteria,Parvimonas ,0.95,,
+HM-491 ,2.07474547,Propionibacterium acnes,HL002PA3,Skin ,Positive,Actinobacteria,Propionibacterium ,1.602,Anaerobe,
+HM-116,1.639127913,Rhodococcus erythropolis,SK121,Skin ,Positive,Actinobacteria,Rhodococcus ,,Aerobe,Nonmotile
+HM-245 ,0.68656798,Rothia dentocariosa,M567,Sputum,Positive,Actinobacteria,Rothia ,0.852,Aerobe,
+HM-818 ,0.75487819,Rothia aeria,F0474,Oral Cavity,Positive,Actinobacteria,Rothia ,0.727,,
+HM-1055,2.03,Rothia mucilaginosa,CC87LB,GI Tract,Positive,Actinobacteria,Rothia ,1.74,,
+HM-470,0.12,Scardovia wiggsiae,F0424,Oral Cavity,Positive,Actinobacteria,Scardovia ,0.67,Anaerobe,Nonmotile
+HM-1190,0.42,Varibaculum cambriense,AB12_3,GI Tract,Positive,Actinobacteria,Varibaculum ,0.51,,
