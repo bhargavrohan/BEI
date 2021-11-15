@@ -1,121 +1,192 @@
-﻿HM Number,Normalized Western,Bacteria,Strain,Source,Gram,Phylum,Genus ,Count_Normalized
-HM-98,0.19375594,Actinomyces israelii F0345,F0345,Oral Cavity,Positive,Actinobacteria,Actinomyces ,0.18
-HM-1295 ,0.194007,Corynebacterium sp. CMW7794,CMW7794,Vagina,Positive,Actinobacteria,Corynebacterium ,
-HM-1089 ,0.220006,Actinomyces urogenitalis S6-C4,S6-C4,Vagina,Positive,Actinobacteria,Actinomyces ,0.65
-HM-125,0.22985502,Mobiluncus mulieris UPII 28-I,UPII 28-I,Vagina,Positive,Actinobacteria,Mobiluncus ,0.6
-HM-784,0.27,Corynebacterium sp. HFH0082,HFH0082,GI Tract,Positive,Actinobacteria,Corynebacterium ,0.61
-HM-841 ,0.334571,Microbacterium sp. F0373,F0373,Oral Cavity,Positive,Actinobacteria,Microbacterium ,0.22
-HM-1153,0.4139893,Corynebacterium tuscaniense DNF00037,DNF00037,Vagina,Positive,Actinobacteria,Corynebacterium ,
-HM-245 ,0.68656798,Rothia dentocariosa M567,M567,Sputum,Positive,Actinobacteria,Rothia ,0.852
-HM-818 ,0.75487819,Rothia aeria F0474,F0474,Oral Cavity,Positive,Actinobacteria,Rothia ,0.727
-HM-94 ,0.83246358,Actinomyces odontolyticus F0309,F0309,Oral Cavity,Positive,Actinobacteria,Actinomyces ,0.955
-HM-114,0.844299054,Micrococcus luteus SK58,SK58,Skin ,Positive,Actinobacteria,Micrococcus ,
-HM-633,0.88,Bifidobacterium adolescentis L2-32,L2-32,GI Tract,Positive,Actinobacteria,Bifidobacterium ,1.28
-HM-30,1.2,Bifidobacterium sp. 12_1_47BFAA,12_1_47BFAA,GI Tract,Positive,Actinobacteria,Bifidobacterium ,2.17
-HM-1152 ,1.20291698,Arthrobacter albus DNF00011,DNF00011,Vagina,Positive,Actinobacteria,Arthrobacter ,
-HM-109,1.205243423,Corynebacterium amycolatum SK46,SK46,Skin ,Positive,Actinobacteria,Corynebacterium ,
-HM-1070 ,1.30029047,Actinomyces johnsonii F0510,F0510,Oral Cavity,Positive,Actinobacteria,Actinomyces ,1
-HM-236 ,1.47338981,Actinomyces graevenitzii C83,C83,Sputum,Positive,Actinobacteria,Actinomyces ,1.727
-HM-1084 ,1.528769,Atopobium parvulum DNF00906,DNF00906,Vagina,Positive,Actinobacteria,Atopobium ,0.29
-HM-238 ,1.63764193,Actinomyces viscosus C505,C505,Sputum,Positive,Actinobacteria,Actinomyces ,1.864
-HM-116,1.639127913,Rhodococcus erythropolis SK121,SK121,Skin ,Positive,Actinobacteria,Rhodococcus ,
-HM-1035,1.66175419,Atopobium parvulum CC14Z,CC14Z,GI Tract,Positive,Actinobacteria,Atopobium ,1.57
-HM-491 ,2.07474547,Propionibacterium acnes HL002PA3,HL002PA3,Skin ,Positive,Actinobacteria,Propionibacterium ,1.602
-HM-1266 ,2.26698133,Actinomyces neuii MJR8396A,MJR8396A,Vagina,Positive,Actinobacteria,Actinomyces ,2.125
-HM-839,2.54067012,Atopobium sp. F0494,F0494,Oral Cavity,Positive,Actinobacteria,Atopobium ,1.74
-HM-856,2.81,Bifidobacterium breve HPH0326,HPH0326,GI Tract,Positive,Actinobacteria,Bifidobacterium ,3.84
-HM-15,0.03927904,Capnocytophaga ochracea F0287,F0287,Oral Cavity,Negative,Bacteroidetes,Capnocytophaga ,
-HM-4,0.19,Bacteroidetes F0058,F0058,Oral Cavity,Negative,Bacteroidetes,Bacteroidetes ,0.38
-HM-18,0.34,Bacteroides sp. 2_1_22,2_1_22,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.58
-HM-720,0.49,Bacteroides vulgatus CL09T03C04,CL09T03C04,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.79
-HM-725,0.49,Bacteroides salyersiae CL02T12C01,CL02T12C01,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.8
-HM-840 ,0.559772,Capnocytophaga sp. F0502,F0502,Oral Cavity,Negative,Bacteroidetes,Capnocytophaga ,0.75
-HM-1294,0.567956398,Prevotella corporis MJR7716,MJR7716,Vagina,Negative,Bacteroidetes,Prevotella ,0.49
-HM-210,0.97,Bacteroides eggerthii 1_2_48FAA,1_2_48FAA,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.03
-HM-726,1.53,Bacteroides cellulosilyticus CL02T12C19,CL02T12C19,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.22
-HM-222,1.59,Bacteroides ovatus 3_8_47FAA,3_8_47FAA,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.41
-HM-727,3.38,Bacteroides finegoldii CL09T03C10,CL09T03C10,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35
-HM-717,28.27,Bacteroides dorei CL02T00C15,CL02T00C15,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35
-HM-709,61.59,Bacteroides fragilis CL07T00C01,CL07T00C01,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35
-HM-20,63.5,Bacteroides fragilis 3_1_12,3_1_12,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35
-HM-111,1.51700925,Deinococcus grandis SK125,SK125,Skin ,Negative,Deinococcus-Thermus,Deinococcus ,
-HM-331 ,0.041378,Sporosarcina sp. 2681,2681,Blood,Positive,Firmicutes,Sporosarcina ,
-HM-968 ,0.076034,Enterococcus faecium ERV102,ERV102,Oral Cavity,Positive,Firmicutes,Enterococcus ,0.568
-HM-117 ,0.07675857,Staphylococcus capitis SK14,SK14,Skin ,Positive,Firmicutes,Staphylococcus ,
-HM-853,0.09967414,Acidaminococcus sp. HPA0509,HPA0509,GI Tract,Negative,Firmicutes,Acidaminococcus ,0.47
-HM-304,0.13,Collinsella sp. 4_8_47FAA,4_8_47FAA,GI Tract,Positive,Firmicutes,Collinsella ,0.28
-HM-1049,0.15,Paenibacillus barengoltzii CC33_002B,CC33_002B,GI Tract,Positive,Firmicutes,Paenibacillus ,0.55
-HM-262 ,0.15440341,Streptococcus mitis F0392,F0392,Oral Cavity,Positive,Firmicutes,Streptococcus ,
-HM-1034,0.16649418,Anaerococcus lactolyticus CC31C,CC31C,GI Tract,Positive,Firmicutes,Anaerococcus ,0.53
-HM-885,0.225506563,Streptococcus sp. CM7,CM7,Oral Cavity,Positive,Firmicutes,Streptococcus ,
-HM-140 ,0.23902279,Staphylococcus epidermidis BCM0060,BCM0060,Skin ,Positive,Firmicutes,Staphylococcus ,
-HM-300,0.26,Dorea formicigenerans 4_6_53AFAA,4_6_53AFAA,GI Tract,Positive,Firmicutes,Dorea ,0.65
-HM-120 ,0.26711365,Staphylococcus warneri SK66,SK66,Skin ,Positive,Firmicutes,Staphylococcus ,
-HM-308,0.34,"Hungatella hathewayi WAL-18680 (Deposited as Clostridium hathewayi, Strain WAL-18680)",WAL-18680,GI Tract,Positive,Firmicutes,Hungatella ,0.53
-HM-306,0.36,Clostridium clostridioforme 2_1_49FAA,2_1_49FAA,GI Tract,Positive,Firmicutes,Clostridium ,0.48
-HM-561,0.363808963,Streptococcus vestibularis F0396,F0396,Oral Cavity,Positive,Firmicutes,Streptococcus ,
-HM-81,0.56817626,Acidaminococcus sp. D21,D21,GI Tract,Negative,Firmicutes,Acidaminococcus ,0.66
-HM-1292,0.59158206,Anaerococcus hydrogenalis MJR7738A,MJR7738A,Vagina,Positive,Firmicutes,Anaerococcus ,0.57
-HM-303,0.63,Clostridium orbiscindens 1_3_50AFAA,1_3_50AFAA,GI Tract,Positive,Firmicutes,Clostridium ,0.6
-HM-36,0.63,Clostridium sp. 7_2_43FAA,7_2_43FAA,GI Tract,Positive,Firmicutes,Clostridium ,0.82
-HM-141,0.723277464,Staphylococcus lugdunensis M23590,M23590,Skin ,Positive,Firmicutes,Staphylococcus ,
-HM-121 ,0.74646938,Streptococcus salivarius SK126,SK126,Skin ,Positive,Firmicutes,Streptococcus ,
-HM-143,0.767017382,Staphylococcus caprae M23864:W1,M23864:W1,Skin ,Positive,Firmicutes,Staphylococcus ,
-HM-466,0.796152974,Staphylococcus aureus MRSA131,MRSA131,Skin ,Positive,Firmicutes,Staphylococcus ,
-HM-702,0.8455582,Lactobacillus iners Lactin V 09 (V1)-c,Lactin V 09 (V1)-c,Vagina,Positive,Firmicutes,Lactobacillus ,0.83
-HM-1200,0.93306114,Weissella cibaria F16_1,F16_1,GI Tract,Positive,Firmicutes,Weissella ,0.95
-HM-272,0.980835615,Streptococcus gallolyticus TX20005,TX20005,Blood,Positive,Firmicutes,Streptococcus ,
-HM-647 ,1.016954,Lactobacillus gasseri 224-1,224-1,Vagina,Positive,Firmicutes,Lactobacillus ,
-HM-646 ,1.083933,Lactobacillus jensenii 208-1,208-1,Vagina,Positive,Firmicutes,Lactobacillus ,1
-HM-1083 ,1.122794,Megasphaera sp. DNF00872,DNF00872,Vagina,Negative,Firmicutes,Megasphaera ,
-HM-478,1.12388864,Lactobacillus parafarraginis F0439,F0439,Oral Cavity,Positive,Firmicutes,Lactobacillus ,1.09
-HM-399,1.14529632,Lactobacillus gasseri EX336960VC02,EX336960VC02,Vagina,Positive,Firmicutes,Lactobacillus ,1.02
-HM-643,1.16328958,Lactobacillus johnsonii 135-1-CHN,135-1-CHN,Vagina,Positive,Firmicutes,Lactobacillus ,0.98
-HM-173,1.24,Clostridium innocuum 6_1_30,6_1_30,GI Tract,Positive,Firmicutes,Clostridium ,1.01
-HM-179,1.25,Phascolarctobacterium sp. 3_1_syn4,3_1_syn4,GI Tract,Negative,Firmicutes,Phascolarctobacterium ,1.11
-HM-375,1.2699631,Lactobacillus crispatus EX849587VC07,EX849587VC07,Vagina,Positive,Firmicutes,Lactobacillus ,1.02
-HM-119,1.273568623,Staphylococcus hominis SK119,SK119,Skin ,Positive,Firmicutes,Staphylococcus ,
-HM-1182 ,1.326593,Clostridiales sp. S9 PR-1,S9 PR-1,Vagina,Positive,Firmicutes,Clostridiales ,1.19
-HM-163 ,1.40151822,Streptococcus cristatus F0329,F0329,Oral Cavity,Positive,Firmicutes,Streptococcus ,
-HM-1098 ,1.670486,Clostridiales bacterium S5-A14a,S5-A14a,Vagina,Positive,Firmicutes,Clostridiales ,1.94
-HM-1164,1.694081639,Staphylococcus haemolyticus DNF00585,DNF00585,Vagina,Positive,Firmicutes,Staphylococcus ,
-HM-106,1.86405262,Lactobacillus rhamnosus LMS2-1,LMS2-1,GI Tract,Positive,Firmicutes,Lactobacillus ,1.33
-HM-1063,1.8650856,Streptococcus sobrinus W1703,W1703,Oral Cavity,Positive,Firmicutes,Streptococcus ,
-HM-241 ,2.02539985,Gemella sanguinis M325,M325,Sputum,Positive,Firmicutes,Gemella ,2.273
-HM-85,2.1,Coprobacillus sp. D6 (29_1),D6 (29_1),GI Tract,Positive,Firmicutes,Coprobacillus ,1.54
-HM-1048,2.1539444,Listeria monocytogenes CC70B,CC70B,GI Tract,Positive,Firmicutes,Listeria ,1.83
-HM-79,2.19,Ruminococcaceae sp. D16,D16,GI Tract,Positive,Firmicutes,Ruminococcaceae ,1.76
-HM-309,2.31,Clostridium symbiosum WAL-14163,WAL-14163,GI Tract,Positive,Firmicutes,Clostridium ,1.67
-HM-287,2.41,Clostridium sp. HGF2,HGF2,GI Tract,Positive,Firmicutes,Clostridium ,1.68
-HM-1060,2.69,Streptococcus parasanguinis CC87K,CC87K,GI Tract,Positive,Firmicutes,Streptococcus ,2.18
-HM-240 ,2.69567216,Gemella morbillorum M424,M424,Sputum,Positive,Firmicutes,Gemella ,3.193
-HM-475,3.71,Streptococcus downei F0415,F0415,Oral Cavity,Positive,Firmicutes,Streptococcus ,3.9
-HM-220,5.84113325,Anaerostipes sp. 3_2_56FAA,3_2_56FAA,GI Tract,Positive,Firmicutes,Anaerostipes ,1.94
-HM-57,0.18,Fusobacterium ulcerans 12_1B,12_1B,GI Tract,Negative,Fusobacteria,Fusobacterium ,0.63
-HM-75,0.7,Fusobacterium nucleatum subsp. animalis D11,D11,GI Tract,Negative,Fusobacteria,Fusobacterium ,0.9
-HM-1274 ,1.515472,Fusobacterium gonidiaformans CMW8396,CMW8396,Vagina,Negative,Fusobacteria,Fusobacterium ,1.59
-HM-1,0.21,Oxalobacter formigenes OxCC13,OxCC13,GI Tract,Negative,Proteobacteria,Oxalobacter ,0.45
-HM-791,0.31021294,Plesiomonas sp. HPP0020,HPP0020,GI Tract,Negative,Proteobacteria,Plesiomonas ,0.83
-HM-242,0.347607428,Neisseria mucosa C102,C102,Sputum,Negative,Proteobacteria,Neisseria ,
-HM-477 ,0.442255,Cardiobacterium valvarum F0432,F0432,Oral Cavity,Negative,Proteobacteria,Cardiobacterium ,
-HM-91,0.626294489,Neisseria sp. F0314,F0314,Oral Cavity,Negative,Proteobacteria,Neisseria ,
-HM-206 ,0.64510257,Aggregatibacter aphrophilus F0387,F0387,Oral Cavity,Negative,Proteobacteria,Aggregatibacter ,0.727
-HM-107,0.722086656,Acinetobacter radioresistens SK82,SK82,Skin ,Negative,Proteobacteria,Acinetobacter ,
-E. coli OP50,1,E. Coli Control,OP50,Lab stock,Negative,Proteobacteria,Escherichia ,1
-HM-624,1.10918337,Klebsiella oxytoca MIT 10-5243,MIT 10-5243,Blood,Negative,Proteobacteria,Klebsiella ,
-HM-115,1.897067007,Neisseria flavescens SK114,SK114,Skin ,Negative,Proteobacteria,Neisseria ,
-HM-38,2.02,Escherichia sp. 3_2_53FAA,3_2_53FAA,GI Tract,Negative,Proteobacteria,Escherichia ,3.39
-HM-341,2.11,Escherichia coli MS 145-7,MS 145-7,GI Tract,Negative,Proteobacteria,Escherichia ,3.23
-HM-354,2.53,Klebsiella sp. MS 92-3,MS 92-3,GI Tract,Negative,Proteobacteria,Klebsiella ,3.69
-HM-648,2.630042555,Acetobacteraceae sp. AT-5844,AT-5844,Infection,Negative,Proteobacteria,Acetobacteraceae ,
-HM-235,2.763020066,Achromobacter xylosoxidans C54,C54,Sputum,Negative,Proteobacteria,Achromobacter ,
-HM-44,2.85,Klebsiella sp. 1_1_55,1_1_55,GI Tract,Negative,Proteobacteria,Klebsiella ,3.32
-HM-299,3.09,Citrobacter portucalensis 4_7_47CFAA,4_7_47CFAA,GI Tract,Negative,Proteobacteria,Citrobacter ,3.74
-PAO1,3.090101149,Pseudomonas Aeruginosa Control,PAO1,Lab stock,Negative,Proteobacteria,Pseudomonas ,
-HM-751,4.647839543,Klebsiella pneumoniae subsp. pneumoniae WGLW2,WGLW2,Sputum,Negative,Proteobacteria,Klebsiella ,
-HM-340,6,Escherichia coli MS 124-1,MS 124-1,GI Tract,Negative,Proteobacteria,Escherichia ,4.68
-HM-34,8.17,Citrobacter sp. 30_2,30_2,GI Tract,Negative,Proteobacteria,Citrobacter ,6.45
-HM-158,15.33,Ralstonia sp. 5_2_56FAA,5_2_56FAA,GI Tract,Negative,Proteobacteria,Ralstonia ,6.45
-HM-575,3.6450412,Treponema denticola AL-2,AL-2,Oral Cavity,Negative,Spirochaetes,Treponema ,3.76
-HM-1191,0.905321923,NAME MISSING,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,
-HM-844,0.38799765,Akkermansia sp. KLE1605,KLE1605,GI Tract,Negative,Verrucomicrobia,Akkermansia ,0.53
+﻿HM Number,Normalized Western,Bacteria ,Strain,Source,Gram,Phylum,Genus ,Count_Normalized,Oxygen,Motility
+HM-648,2.630042555,Acetobacteraceae sp.,AT-5844,Infection,Negative,Proteobacteria,Acetobacteraceae ,1.89,,
+HM-235,2.763020066,Achromobacter xylosoxidans,C54,Sputum,Negative,Proteobacteria,Achromobacter ,2.7,,
+HM-853,0.09967414,Acidaminococcus sp.,HPA0509,GI Tract,Negative,Firmicutes,Acidaminococcus ,0.47,,
+HM-81,0.56817626,Acidaminococcus sp.,D21,GI Tract,Negative,Firmicutes,Acidaminococcus ,0.66,,
+HM-107,0.722086656,Acinetobacter radioresistens,SK82,Skin ,Negative,Proteobacteria,Acinetobacter ,0.594,Aerobe,Nonmotile
+HM-94 ,0.83246358,Actinomyces odontolyticus,F0309,Oral Cavity,Positive,Actinobacteria,Actinomyces ,0.955,Facultative,Nonmotile
+HM-1070 ,1.30029047,Actinomyces johnsonii,F0510,Oral Cavity,Positive,Actinobacteria,Actinomyces ,1,,
+HM-98,0.19375594,Actinomyces israelii,F0345,Oral Cavity,Positive,Actinobacteria,Actinomyces ,0.18,,
+HM-236 ,1.47338981,Actinomyces graevenitzii,C83,Sputum,Positive,Actinobacteria,Actinomyces ,1.727,Anaerobe,Nonmotile
+HM-238 ,1.63764193,Actinomyces viscosus,C505,Sputum,Positive,Actinobacteria,Actinomyces ,1.864,Anaerobe,Nonmotile
+HM-1089 ,0.220006,Actinomyces urogenitalis,S6-C4,Vagina,Positive,Actinobacteria,Actinomyces ,0.65,,
+HM-1266 ,2.26698133,Actinomyces neuii,MJR8396A,Vagina,Positive,Actinobacteria,Actinomyces ,2.125,,
+HM-206 ,0.64510257,Aggregatibacter aphrophilus,F0387,Oral Cavity,Negative,Proteobacteria,Aggregatibacter ,0.727,Facultative,Nonmotile
+HM-844,0.38799765,Akkermansia sp.,KLE1605,GI Tract,Negative,Verrucomicrobia,Akkermansia ,0.53,Aerobe,Motile
+HM-1282,2.42,Alloscardovia omnicolens,CMW7705A,Vagina,Positive,Actinobacteria,Alloscardovia ,3.43478261,,
+HM-1034,0.16649418,Anaerococcus lactolyticus,CC31C,GI Tract,Positive,Firmicutes,Anaerococcus ,0.53,,
+HM-1292,0.59158206,Anaerococcus hydrogenalis,MJR7738A,Vagina,Positive,Firmicutes,Anaerococcus ,0.57,,
+HM-220,5.84113325,Anaerostipes sp.,3_2_56FAA,GI Tract,Positive,Firmicutes,Anaerostipes ,1.94,,
+HM-1152 ,1.20291698,Arthrobacter albus,DNF00011,Vagina,Positive,Actinobacteria,Arthrobacter ,,,
+HM-1035,1.66175419,Atopobium parvulum,CC14Z,GI Tract,Positive,Actinobacteria,Atopobium ,1.57,,
+HM-839,2.54067012,Atopobium sp.,F0494,Oral Cavity,Positive,Actinobacteria,Atopobium ,1.74,,
+HM-1084 ,1.528769,Atopobium parvulum,DNF00906,Vagina,Positive,Actinobacteria,Atopobium ,0.29,,
+HM-18,0.34,Bacteroides sp.,2_1_22,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.58,Anaerobe,Nonmotile
+HM-720,0.49,Bacteroides vulgatus,CL09T03C04,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.79,,
+HM-725,0.49,Bacteroides salyersiae,CL02T12C01,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.8,,
+HM-210,0.97,Bacteroides eggerthii,1_2_48FAA,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.03,,
+HM-726,1.53,Bacteroides cellulosilyticus,CL02T12C19,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.22,,
+HM-20,63.5,Bacteroides fragilis,3_1_12,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,Anaerobe,Nonmotile
+HM-709,61.59,Bacteroides fragilis,CL07T00C01,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,,
+HM-717,28.27,Bacteroides dorei,CL02T00C15,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,,
+HM-727,3.38,Bacteroides finegoldii,CL09T03C10,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,,
+HM-222,1.59,Bacteroides ovatus,3_8_47FAA,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.41,,
+HM-728,0.89,Bacteroides caccae,CL03T12C61,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.85869565,,
+HM-1036,0.31,Bacteroides stercoris,CC31F,GI Tract,Positive,Bacteroidetes,Bacteroides ,0.72826087,,
+HM-4,0.19,Bacteroidetes,F0058,Oral Cavity,Negative,Bacteroidetes,Bacteroidetes ,0.38,Anaerobe,Nonmotile
+HM-856,0.08,Bifidobacterium breve,HPH0326,GI Tract,Positive,Actinobacteria,Bifidobacterium ,0.65217391,,
+HM-633,0.88,Bifidobacterium adolescentis,L2-32,GI Tract,Positive,Actinobacteria,Bifidobacterium ,1.28,Anaerobe,Nonmotile
+HM-30,1.2,Bifidobacterium sp.,12_1_47BFAA,GI Tract,Positive,Actinobacteria,Bifidobacterium ,2.17,,
+HM-1189,0.73,Bifidobacterium angulatum,F16_22,GI Tract,Positive,Actinobacteria,Bifidobacterium ,0.7173913,,
+HM-846,0.47,Bifidobacterium longum subsp. longum,1-6B,GI Tract,Positive,Actinobacteria,Bifidobacterium ,0.92391304,Anaerobe,Nonmotile
+HM-840 ,0.559772,Capnocytophaga sp.,F0502,Oral Cavity,Negative,Bacteroidetes,Capnocytophaga ,0.75,,
+HM-15,0.03927904,Capnocytophaga ochracea,F0287,Oral Cavity,Negative,Bacteroidetes,Capnocytophaga ,,Facultative,Motile
+HM-1192,0.07,Catabacter hongkongensis,AB8_9,GI Tract,Positive,Firmicutes,Catabacter ,0.33,,
+HM-299,3.09,Citrobacter portucalensis,4_7_47CFAA,GI Tract,Negative,Proteobacteria,Citrobacter ,3.74,,
+HM-34,8.17,Citrobacter sp.,30_2,GI Tract,Negative,Proteobacteria,Citrobacter ,6.45,,
+HM-1098,2.16,Clostridiales bacterium,S5-A14a,Vagina,Positive,Firmicutes,Clostridiales ,1.94,,
+HM-1182 ,1.326593,Clostridiales sp.,S9 PR-1,Vagina,Positive,Firmicutes,Clostridiales ,1.19,,
+HM-793,2.94,Clostridiales bacterium,HPP0074,GI Tract,Positive,Firmicutes,Clostridiales ,3.1,,
+HM-306,0.36,Clostridium clostridioforme,2_1_49FAA,GI Tract,Positive,Firmicutes,Clostridium ,0.48,Obligate anaerobe,Motile
+HM-303,0.63,Clostridium orbiscindens,1_3_50AFAA,GI Tract,Positive,Firmicutes,Clostridium ,0.6,Obligate anaerobe,Motile
+HM-173,1.24,Clostridium innocuum,6_1_30,GI Tract,Positive,Firmicutes,Clostridium ,1.01,Anaerobe,Motile
+HM-309,2.31,Clostridium symbiosum,WAL-14163,GI Tract,Positive,Firmicutes,Clostridium ,1.67,Obligate anaerobe,Motile
+HM-287,2.41,Clostridium sp.,HGF2,GI Tract,Positive,Firmicutes,Clostridium ,1.68,Anaerobe,
+HM-36,0.63,Clostridium sp.,7_2_43FAA,GI Tract,Positive,Firmicutes,Clostridium ,0.82,,
+HM-1041,0.65,Clostridium cadaveris,CC88A,GI Tract,Positive,Firmicutes,Clostridium ,0.84,,
+HM-315,0.48,Clostridium citroniae,WAL-17108,GI Tract,Positive,Firmicutes,Clostridium ,0.74,Obligate anaerobe,Motile
+HM-318,1.06,Clostridium bolteae,WAL-14578,GI Tract,Positive,Firmicutes,Clostridium ,1.01,Obligate anaerobe,Motile
+HM-1044,0.53,Clostridium orbiscindens,CC43_001K,unknown,Positive,Firmicutes,Clostridium ,0.74,,
+HM-746,0.91,Clostridium difficile,002-P50-2011,unknown,Positive,Firmicutes,Clostridium ,1.03,,
+HM-1039,2.12,Clostridium cadaveris,CC40_001C,unknown,Positive,Firmicutes,Clostridium ,3.02,,
+HM-745,5.06,Clostridium difficile,70-100-2010,GI Tract,Positive,Firmicutes,Clostridium ,3.98,,
+HM-304,0.13,Collinsella sp.,4_8_47FAA,GI Tract,Positive,Firmicutes,Collinsella ,0.28,Anaerobe,Nonmotile
+HM-85,2.1,Coprobacillus sp.,D6 (29_1),GI Tract,Positive,Firmicutes,Coprobacillus ,1.54,,
+HM-794,0.33,Coprococcus sp.,HPP0048,GI Tract,Positive,Firmicutes,Coprococcus ,0.65,,
+HM-784,0.27,Corynebacterium sp.,HFH0082,GI Tract,Positive,Actinobacteria,Corynebacterium ,0.61,,
+HM-109,1.205243423,Corynebacterium amycolatum,SK46,Skin ,Positive,Actinobacteria,Corynebacterium ,1.41,Aerobe,Nonmotile
+HM-1153,0.4139893,Corynebacterium tuscaniense,DNF00037,Vagina,Positive,Actinobacteria,Corynebacterium ,,,
+HM-1295 ,0.194007,Corynebacterium sp.,CMW7794,Vagina,Positive,Actinobacteria,Corynebacterium ,,,
+HM-111,1.51700925,Deinococcus grandis,SK125,Skin ,Negative,Deinococcus-Thermus,Deinococcus ,,,
+HM-857,2.26,Dermabacter sp.,HFH0086,GI Tract,Positive,Actinobacteria,Dermabacter ,1.66,,
+HM-300,0.26,Dorea formicigenerans,4_6_53AFAA,GI Tract,Positive,Firmicutes,Dorea ,0.65,Anaerobe,
+HM-1099,0.97,Eggerthella sp.,MVA1,Vagina,Positive,Actinobacteria,Eggerthella ,1.01,,
+HM-968 ,0.076034,Enterococcus faecium,ERV102,Oral Cavity,Positive,Firmicutes,Enterococcus ,0.568,,
+HM-432,2.16,Enterococcus faecalis,TX2137,GI Tract,Positive,Firmicutes,Enterococcus ,3.18,Facultative,
+HM-180,2.05,Erysipelotrichaceae sp.,6_1_45,GI Tract,Positive,Firmicutes,Erysipelotrichaceae ,1.51,,
+HM-341,2.11,Escherichia coli,MS 145-7,GI Tract,Negative,Proteobacteria,Escherichia ,3.23,,
+HM-38,2.02,Escherichia sp.,3_2_53FAA,GI Tract,Negative,Proteobacteria,Escherichia ,3.39,,
+HM-340,6,Escherichia coli,MS 124-1,GI Tract,Negative,Proteobacteria,Escherichia ,4.68,,
+E. coli OP50,1,E. Coli OP50,OP50,Lab stock,Negative,Proteobacteria,Escherichia ,1,,
+HM-473,2.14,Faecalibacterium prausnitzii,KLE1255,GI Tract,Positive,Firmicutes,Faecalibacterium ,1.76,Facultative,Nonmotile
+HM-1285,1.34,Finegoldia magna,GED7760A,Vagina,Positive,Firmicutes,Finegoldia ,1.02,,
+HM-57,0.18,Fusobacterium ulcerans,12_1B,GI Tract,Negative,Fusobacteria,Fusobacterium ,0.63,,
+HM-75,0.7,Fusobacterium nucleatum subsp. animalis,D11,GI Tract,Negative,Fusobacteria,Fusobacterium ,0.9,,
+HM-1274 ,1.515472,Fusobacterium gonidiaformans,CMW8396,Vagina,Negative,Fusobacteria,Fusobacterium ,1.59,,
+HM-871,1.36,Fusobacterium sp.,CM21,Oral Cavity,Negative,Fusobacteria,Fusobacterium ,1.08,,
+HM-241 ,2.02539985,Gemella sanguinis,M325,Sputum,Positive,Firmicutes,Gemella ,2.273,Facultative,Motile
+HM-240 ,2.69567216,Gemella morbillorum,M424,Sputum,Positive,Firmicutes,Gemella ,3.193,Facultative,Motile
+HM-308,0.34,Hungatella hathewayi,WAL-18680,GI Tract,Positive,Firmicutes,Hungatella ,0.53,Obligate anaerobe,Motile
+HM-624,1.10918337,Klebsiella oxytoca,MIT 10-5243,Blood,Negative,Proteobacteria,Klebsiella ,2,,
+HM-44,2.85,Klebsiella sp.,1_1_55,GI Tract,Negative,Proteobacteria,Klebsiella ,3.32,,
+HM-354,2.53,Klebsiella sp.,MS 92-3,GI Tract,Negative,Proteobacteria,Klebsiella ,3.69,,
+HM-751,4.647839543,Klebsiella pneumoniae subsp. pneumoniae,WGLW2,Sputum,Negative,Proteobacteria,Klebsiella ,3.73,,
+HM-106,1.86405262,Lactobacillus rhamnosus,LMS2-1,GI Tract,Positive,Firmicutes,Lactobacillus ,1.33,Facultative,Nonmotile
+HM-478,1.12388864,Lactobacillus parafarraginis,F0439,Oral Cavity,Positive,Firmicutes,Lactobacillus ,1.09,Facultative,Nonmotile
+HM-643,1.16328958,Lactobacillus johnsonii,135-1-CHN,Vagina,Positive,Firmicutes,Lactobacillus ,0.98,Microaerophilic,Nonmotile
+HM-646 ,1.083933,Lactobacillus jensenii,208-1,Vagina,Positive,Firmicutes,Lactobacillus ,1,Anaerobe,
+HM-647 ,1.016954,Lactobacillus gasseri,224-1,Vagina,Positive,Firmicutes,Lactobacillus ,,Microaerophilic,Nonmotile
+HM-702,0.8455582,Lactobacillus iners,Lactin V 09 (V1)-c,Vagina,Positive,Firmicutes,Lactobacillus ,0.83,,
+HM-375,1.2699631,Lactobacillus crispatus,EX849587VC07,Vagina,Positive,Firmicutes,Lactobacillus ,1.02,,
+HM-399,1.14529632,Lactobacillus gasseri,EX336960VC02,Vagina,Positive,Firmicutes,Lactobacillus ,1.02,,
+HM-1048,2.1539444,Listeria monocytogenes,CC70B,GI Tract,Positive,Firmicutes,Listeria ,1.83,,
+HM-1083 ,1.122794,Megasphaera sp.,DNF00872,Vagina,Negative,Firmicutes,Megasphaera ,,,
+HM-841 ,0.334571,Microbacterium sp.,F0373,Oral Cavity,Positive,Actinobacteria,Microbacterium ,0.22,,
+HM-114,0.844299054,Micrococcus luteus,SK58,Skin ,Positive,Actinobacteria,Micrococcus ,0.93,Aerobe,Nonmotile
+HM-125,0.22985502,Mobiluncus mulieris,UPII 28-I,Vagina,Positive,Actinobacteria,Mobiluncus ,0.6,,
+HM-91,0.626294489,Neisseria sp.,F0314,Oral Cavity,Negative,Proteobacteria,Neisseria ,0.703,Aerobe,Nonmotile
+HM-115,1.897067007,Neisseria flavescens,SK114,Skin ,Negative,Proteobacteria,Neisseria ,0.216,Aerobe,Nonmotile
+HM-242,0.347607428,Neisseria mucosa,C102,Sputum,Negative,Proteobacteria,Neisseria ,0.51,Aerobe,Nonmotile
+HM-1239,1.36,Olsenella sp.,DNF00959,Vagina,Positive,Actinobacteria,Olsenella ,1.09,,
+HM-877,1.75,Olsenella uli,MSTE5,Oral Cavity,Positive,Actinobacteria,Olsenella ,1.31,,
+HM-1,0.21,Oxalobacter formigenes,OxCC13,GI Tract,Negative,Proteobacteria,Oxalobacter ,0.45,Anaerobe,
+HM-1049,0.15,Paenibacillus barengoltzii,CC33_002B,GI Tract,Positive,Firmicutes,Paenibacillus ,0.55,,
+HM-1050,6.77,Parabacteroides goldsteinii,CC87F,unknown,Negative,Bacteroidetes,Parabacteroides ,4.29,,
+HM-729,1.1,Parabacteroides merdae,CL09T00C40,GI Tract,Positive,Bacteroidetes,Parabacteroides ,1.1,,
+HM-1253,0.86,Parvimonas sp.,KA00067,Vagina,Positive,Actinobacteria,Parvimonas ,0.95,,
+HM-1052,0.54,Parvimonas micra,CC57A,GI Tract,Positive,Actinobacteria,Parvimonas ,0.7,,
+HM-1161,0.21,Peptoniphilus lacrimalis,DNF00528,Vagina,Positive,Firmicutes,Peptoniphilus ,0.54,,
+HM-1051,0.11,Peptostreptococcus sp.,CC14N,unknown,Positive,Firmicutes,Peptostreptococcus ,0.53,,
+HM-179,1.25,Phascolarctobacterium sp.,3_1_syn4,GI Tract,Negative,Firmicutes,Phascolarctobacterium ,1.11,,
+HM-791,0.31021294,Plesiomonas sp.,HPP0020,GI Tract,Negative,Proteobacteria,Plesiomonas ,0.83,,
+HM-1071,0.08,Porphyromonas gingivalis,F0568,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,0.26,,
+HM-1073,0.36,Porphyromonas gingivalis,F0570,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,0.57,,
+HM-1064,1.24,Porphyromonas sp.,W7784,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,1.33,,
+HM-781,0.42,Porphyromonas sp.,KLE1280,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,0.54,,
+HM-130,0.9,Porphyromonas uenonis,UPII 60-3,Urogenital Tract,Negative,Bacteroidetes,Porphyromonas ,0.83,,
+HM-1294,0.567956398,Prevotella corporis,MJR7716,Vagina,Negative,Bacteroidetes,Prevotella ,0.49,,
+HM-1270,0.83,Prevotella bivia,GED7880,Vagina,Negative,Bacteroidetes,Prevotella ,0.7,,
+HM-1286,0.49,Prevotella bivia,GED7760C,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,0.7,,
+HM-1165,0.93,Prevotella bivia,DNF00650,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,0.92,,
+HM-471,0.64,Prevotella histicola,F0411,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.57,Anaerobe,Nonmotile
+HM-16,0.68,Prevotella sp.,F0295,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.59,Anaerobe,Nonmotile
+HM-80,0.51,Prevotella melaninogenica,D18,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.6,Anaerobe,Nonmotile
+HM-45,0.87,Prevotella buccae,D17,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.61,Anaerobe,Nonmotile
+HM-271,1.33,Prevotella nigrescens,F0103,Oral Cavity,Negative,Bacteroidetes,Prevotella ,1.44,Anaerobe,Nonmotile
+HM-93,0.25,Prevotella oris,F0302,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.36,Anaerobe,Nonmotile
+HM-92,0.31,Prevotella verOral Cavityis,F0319,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.56,Anaerobe,Nonmotile
+HM-1171,0.28,Prevotella disiens,DNF00882,Vagina,Negative,Bacteroidetes,Prevotella ,0.48,Anaerobe,Nonmotile
+HM-849,0.09,Prevotella Oral Cavityis,HGA0225,GI Tract,Negative,Bacteroidetes,Prevotella ,0.41,,
+HM-1054,0.08,Prevotella Oral Cavityis,CC98A,unknown,Negative,Bacteroidetes,Prevotella ,0.44,,
+HM-5,0.81,Prevotella sp.,F0108,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.72,Anaerobe,Nonmotile
+HM-1103,1.72,Prevotella sp.,S7-1-8,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,1.17,,
+HM-208,0.1,Prevotella denticola,"F0289, Oral CavityTaxon 291",Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.54,,
+HM-138,0.77,Prevotella amnii,CRIS 21A-A,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,0.63,,
+HM-136,1.2,Prevotella timonensis,CRIS 5C-B1,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,1.01,,
+HM-491 ,2.07474547,Propionibacterium acnes,HL002PA3,Skin ,Positive,Actinobacteria,Propionibacterium ,1.602,Anaerobe,
+PAO1,3.090101149,PAO1,PAO1,Lab stock,Negative,Proteobacteria,Pseudomonas ,,,
+HM-158,15.33,Ralstonia sp.,5_2_56FAA,GI Tract,Negative,Proteobacteria,Ralstonia ,6.45,,
+HM-116,1.639127913,Rhodococcus erythropolis,SK121,Skin ,Positive,Actinobacteria,Rhodococcus ,,Aerobe,Nonmotile
+HM-818 ,0.75487819,Rothia aeria,F0474,Oral Cavity,Positive,Actinobacteria,Rothia ,0.727,,
+HM-245 ,0.68656798,Rothia dentocariosa,M567,Sputum,Positive,Actinobacteria,Rothia ,0.852,Aerobe,
+HM-1055,2.03,Rothia mucilaginosa,CC87LB,GI Tract,Positive,Actinobacteria,Rothia ,1.74,,
+HM-79,2.19,Ruminococcaceae sp.,D16,GI Tract,Positive,Firmicutes,Ruminococcaceae ,1.76,,
+HM-1057,0.15,Ruminococcus lactaris,CC59_002D,unknown,Positive,Firmicutes,Ruminococcus ,0.53,,
+HM-1056,0.88,Ruminococcus gnavus,CC55_001C,unknown,Positive,Firmicutes,Ruminococcus ,0.85,,
+HM-470,0.12,Scardovia wiggsiae,F0424,Oral Cavity,Positive,Actinobacteria,Scardovia ,0.67,Anaerobe,Nonmotile
+HM-1136,0.85,Selenomonas sp.,F0426,Oral Cavity,Negative,Firmicutes,Selenomonas ,0.8,,
+HM-270,0.64,Selenomonas noxia,F0398,Oral Cavity,Negative,Firmicutes,Selenomonas ,0.68,Anaerobe,Motile
+HM-564,1.48,Selenomonas sp.,F0430,Oral Cavity,Positive,Firmicutes,Selenomonas ,1.27,Anaerobe,Motile
+HM-87,0.88,Shigella sp.,D9,GI Tract,Negative,Proteobacteria,Shigella ,1,Facultative,Motile
+HM-882,0.24,Shuttleworthia sp.,MSX8B,Oral Cavity,Positive,Firmicutes,Shuttleworthia ,0.42,,
+NR-50515,0.09,Sneathia amnii,Sn35,Vagina,Negative,Fusobacteria,Sneathia ,0.38,Anaerobe,
+HM-1059,0.6,Solobacterium moorei,CC57E,unknown,Positive,Firmicutes,Solobacterium ,0.9,,
+HM-1058,1.19,Solobacterium moorei,CC14Y,unknown,Positive,Firmicutes,Solobacterium ,1.09,,
+HM-119,1.273568623,Staphylococcus hominis,SK119,Skin ,Positive,Firmicutes,Staphylococcus ,2,Facultative,Nonmotile
+HM-117 ,0.07675857,Staphylococcus capitis,SK14,Skin ,Positive,Firmicutes,Staphylococcus ,,Facultative,Nonmotile
+HM-141,0.723277464,Staphylococcus lugdunensis,M23590,Skin ,Positive,Firmicutes,Staphylococcus ,,Facultative,Nonmotile
+HM-466,0.796152974,Staphylococcus aureus,MRSA131,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-120 ,0.26711365,Staphylococcus warneri,SK66,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-140 ,0.23902279,Staphylococcus epidermidis,BCM0060,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-143,0.767017382,Staphylococcus caprae,M23864:W1,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-1164,1.694081639,Staphylococcus haemolyticus,DNF00585,Vagina,Positive,Firmicutes,Staphylococcus ,1.53,,
+HM-480,1.1,Stomatobaculum longum,ACC2,Oral Cavity,Negative,Firmicutes,Stomatobaculum ,1.05,Facultative,Nonmotile
+HM-272,0.980835615,Streptococcus gallolyticus,TX20005,Blood,Positive,Firmicutes,Streptococcus ,0.97,Aerobe,Nonmotile
+HM-1060,2.69,Streptococcus parasanguinis,CC87K,GI Tract,Positive,Firmicutes,Streptococcus ,2.18,,
+HM-561,0.363808963,Streptococcus vestibularis,F0396,Oral Cavity,Positive,Firmicutes,Streptococcus ,0.405,Anaerobe,
+HM-885,0.225506563,Streptococcus sp.,CM7,Oral Cavity,Positive,Firmicutes,Streptococcus ,0.5,,
+HM-1063,1.8650856,Streptococcus sobrinus,W1703,Oral Cavity,Positive,Firmicutes,Streptococcus ,1.216,,
+HM-475,3.71,Streptococcus downei,F0415,Oral Cavity,Positive,Firmicutes,Streptococcus ,3.9,Anaerobe,Nonmotile
+HM-163 ,1.40151822,Streptococcus cristatus,F0329,Oral Cavity,Positive,Firmicutes,Streptococcus ,,Anaerobe,
+HM-262 ,0.15440341,Streptococcus mitis,F0392,Oral Cavity,Positive,Firmicutes,Streptococcus ,,Anaerobe,
+HM-121 ,0.74646938,Streptococcus salivarius,SK126,Skin ,Positive,Firmicutes,Streptococcus ,,Facultative,Nonmotile
+HM-1096,2.34,Tissierellia bacterium,S5-A11,Vagina,Positive,Firmicutes,Tissierellia ,1.55,,
+HM-575,3.6450412,Treponema denticola,AL-2,Oral Cavity,Negative,Spirochaetes,Treponema ,3.76,,
+HM-1190,0.42,Varibaculum cambriense,AB12_3,GI Tract,Positive,Actinobacteria,Varibaculum ,0.51,,
+HM-1301,0.27,Veillonella atypica,CMW7756B,Vagina,Negative,Firmicutes,Veillonella ,0.44,,
+HM-778,0.66,Veillonella sp.,ACP1,Oral Cavity,Negative,Firmicutes,Veillonella ,0.7,,
+HM-1157,1.62,Veillonella montpellierensis,DNF00314,Vagina,Negative,Firmicutes,Veillonella ,1.14,Anaerobe,Nonmotile
+HM-1200,0.93306114,Weissella cibaria,F16_1,GI Tract,Positive,Firmicutes,Weissella ,0.95,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
