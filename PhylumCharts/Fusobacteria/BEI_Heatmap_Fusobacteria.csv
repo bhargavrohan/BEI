@@ -1,0 +1,6 @@
+﻿HM Number,Normalized Western,Bacteria ,Strain,Source,Gram,Phylum,Genus ,Count_Normalized,Oxygen,Motility
+HM-57,0.18,Fusobacterium ulcerans,12_1B,GI Tract,Negative,Fusobacteria,Fusobacterium ,0.63,,
+HM-75,0.7,Fusobacterium nucleatum subsp. animalis,D11,GI Tract,Negative,Fusobacteria,Fusobacterium ,0.9,,
+HM-871,1.36,Fusobacterium sp.,CM21,Oral Cavity,Negative,Fusobacteria,Fusobacterium ,1.08,,
+HM-1274 ,1.515472,Fusobacterium gonidiaformans,CMW8396,Vagina,Negative,Fusobacteria,Fusobacterium ,1.59,,
+NR-50515,0.09,Sneathia amnii,Sn35,Vagina,Negative,Fusobacteria,Sneathia ,0.38,Anaerobe,
