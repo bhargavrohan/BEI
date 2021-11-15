@@ -1,0 +1,23 @@
+﻿HM Number,Normalized Western,Bacteria ,Strain,Source,Gram,Phylum,Genus ,Count_Normalized,Oxygen,Motility
+HM-648,2.630042555,Acetobacteraceae sp.,AT-5844,Infection,Negative,Proteobacteria,Acetobacteraceae ,1.89,,
+HM-235,2.763020066,Achromobacter xylosoxidans,C54,Sputum,Negative,Proteobacteria,Achromobacter ,2.7,,
+HM-107,0.722086656,Acinetobacter radioresistens,SK82,Skin ,Negative,Proteobacteria,Acinetobacter ,0.594,Aerobe,Nonmotile
+HM-206 ,0.64510257,Aggregatibacter aphrophilus,F0387,Oral Cavity,Negative,Proteobacteria,Aggregatibacter ,0.727,Facultative,Nonmotile
+HM-299,3.09,Citrobacter portucalensis,4_7_47CFAA,GI Tract,Negative,Proteobacteria,Citrobacter ,3.74,,
+HM-34,8.17,Citrobacter sp.,30_2,GI Tract,Negative,Proteobacteria,Citrobacter ,6.45,,
+E. coli OP50,1,E. Coli OP50,OP50,Lab stock,Negative,Proteobacteria,Escherichia ,1,,
+HM-38,2.02,Escherichia sp.,3_2_53FAA,GI Tract,Negative,Proteobacteria,Escherichia ,3.39,,
+HM-341,2.11,Escherichia coli,MS 145-7,GI Tract,Negative,Proteobacteria,Escherichia ,3.23,,
+HM-340,6,Escherichia coli,MS 124-1,GI Tract,Negative,Proteobacteria,Escherichia ,4.68,,
+HM-624,1.10918337,Klebsiella oxytoca,MIT 10-5243,Blood,Negative,Proteobacteria,Klebsiella ,2,,
+HM-354,2.53,Klebsiella sp.,MS 92-3,GI Tract,Negative,Proteobacteria,Klebsiella ,3.69,,
+HM-44,2.85,Klebsiella sp.,1_1_55,GI Tract,Negative,Proteobacteria,Klebsiella ,3.32,,
+HM-751,4.647839543,Klebsiella pneumoniae subsp. pneumoniae,WGLW2,Sputum,Negative,Proteobacteria,Klebsiella ,3.73,,
+HM-242,0.347607428,Neisseria mucosa,C102,Sputum,Negative,Proteobacteria,Neisseria ,0.51,Aerobe,Nonmotile
+HM-91,0.626294489,Neisseria sp.,F0314,Oral Cavity,Negative,Proteobacteria,Neisseria ,0.703,Aerobe,Nonmotile
+HM-115,1.897067007,Neisseria flavescens,SK114,Skin ,Negative,Proteobacteria,Neisseria ,0.216,Aerobe,Nonmotile
+HM-1,0.21,Oxalobacter formigenes,OxCC13,GI Tract,Negative,Proteobacteria,Oxalobacter ,0.45,Anaerobe,
+HM-791,0.31021294,Plesiomonas sp.,HPP0020,GI Tract,Negative,Proteobacteria,Plesiomonas ,0.83,,
+PAO1,3.090101149,PAO1,PAO1,Lab stock,Negative,Proteobacteria,Pseudomonas ,,,
+HM-158,15.33,Ralstonia sp.,5_2_56FAA,GI Tract,Negative,Proteobacteria,Ralstonia ,6.45,,
+HM-87,0.88,Shigella sp.,D9,GI Tract,Negative,Proteobacteria,Shigella ,1,Facultative,Motile
