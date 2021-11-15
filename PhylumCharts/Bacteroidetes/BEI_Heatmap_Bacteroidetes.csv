@@ -1,0 +1,42 @@
+﻿HM Number,Normalized Western,Bacteria ,Strain,Source,Gram,Phylum,Genus ,Count_Normalized,Oxygen,Motility
+HM-1036,0.31,Bacteroides stercoris,CC31F,GI Tract,Positive,Bacteroidetes,Bacteroides ,0.72826087,,
+HM-18,0.34,Bacteroides sp.,2_1_22,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.58,Anaerobe,Nonmotile
+HM-720,0.49,Bacteroides vulgatus,CL09T03C04,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.79,,
+HM-725,0.49,Bacteroides salyersiae,CL02T12C01,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.8,,
+HM-728,0.89,Bacteroides caccae,CL03T12C61,GI Tract,Negative,Bacteroidetes,Bacteroides ,0.85869565,,
+HM-210,0.97,Bacteroides eggerthii,1_2_48FAA,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.03,,
+HM-726,1.53,Bacteroides cellulosilyticus,CL02T12C19,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.22,,
+HM-222,1.59,Bacteroides ovatus,3_8_47FAA,GI Tract,Negative,Bacteroidetes,Bacteroides ,1.41,,
+HM-727,3.38,Bacteroides finegoldii,CL09T03C10,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,,
+HM-717,28.27,Bacteroides dorei,CL02T00C15,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,,
+HM-709,61.59,Bacteroides fragilis,CL07T00C01,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,,
+HM-20,63.5,Bacteroides fragilis,3_1_12,GI Tract,Negative,Bacteroidetes,Bacteroides ,4.35,Anaerobe,Nonmotile
+HM-4,0.19,Bacteroidetes,F0058,Oral Cavity,Negative,Bacteroidetes,Bacteroidetes ,0.38,Anaerobe,Nonmotile
+HM-15,0.03927904,Capnocytophaga ochracea,F0287,Oral Cavity,Negative,Bacteroidetes,Capnocytophaga ,,Facultative,Motile
+HM-840 ,0.559772,Capnocytophaga sp.,F0502,Oral Cavity,Negative,Bacteroidetes,Capnocytophaga ,0.75,,
+HM-729,1.1,Parabacteroides merdae,CL09T00C40,GI Tract,Positive,Bacteroidetes,Parabacteroides ,1.1,,
+HM-1050,6.77,Parabacteroides goldsteinii,CC87F,unknown,Negative,Bacteroidetes,Parabacteroides ,4.29,,
+HM-1071,0.08,Porphyromonas gingivalis,F0568,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,0.26,,
+HM-1073,0.36,Porphyromonas gingivalis,F0570,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,0.57,,
+HM-781,0.42,Porphyromonas sp.,KLE1280,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,0.54,,
+HM-130,0.9,Porphyromonas uenonis,UPII 60-3,Urogenital Tract,Negative,Bacteroidetes,Porphyromonas ,0.83,,
+HM-1064,1.24,Porphyromonas sp.,W7784,Oral Cavity,Negative,Bacteroidetes,Porphyromonas ,1.33,,
+HM-1054,0.08,Prevotella Oral Cavityis,CC98A,unknown,Negative,Bacteroidetes,Prevotella ,0.44,,
+HM-849,0.09,Prevotella Oral Cavityis,HGA0225,GI Tract,Negative,Bacteroidetes,Prevotella ,0.41,,
+HM-208,0.1,Prevotella denticola,"F0289, Oral CavityTaxon 291",Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.54,,
+HM-93,0.25,Prevotella oris,F0302,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.36,Anaerobe,Nonmotile
+HM-1171,0.28,Prevotella disiens,DNF00882,Vagina,Negative,Bacteroidetes,Prevotella ,0.48,Anaerobe,Nonmotile
+HM-92,0.31,Prevotella verOral Cavityis,F0319,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.56,Anaerobe,Nonmotile
+HM-1286,0.49,Prevotella bivia,GED7760C,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,0.7,,
+HM-80,0.51,Prevotella melaninogenica,D18,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.6,Anaerobe,Nonmotile
+HM-1294,0.567956398,Prevotella corporis,MJR7716,Vagina,Negative,Bacteroidetes,Prevotella ,0.49,,
+HM-471,0.64,Prevotella histicola,F0411,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.57,Anaerobe,Nonmotile
+HM-16,0.68,Prevotella sp.,F0295,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.59,Anaerobe,Nonmotile
+HM-138,0.77,Prevotella amnii,CRIS 21A-A,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,0.63,,
+HM-5,0.81,Prevotella sp.,F0108,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.72,Anaerobe,Nonmotile
+HM-1270,0.83,Prevotella bivia,GED7880,Vagina,Negative,Bacteroidetes,Prevotella ,0.7,,
+HM-45,0.87,Prevotella buccae,D17,Oral Cavity,Negative,Bacteroidetes,Prevotella ,0.61,Anaerobe,Nonmotile
+HM-1165,0.93,Prevotella bivia,DNF00650,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,0.92,,
+HM-136,1.2,Prevotella timonensis,CRIS 5C-B1,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,1.01,,
+HM-271,1.33,Prevotella nigrescens,F0103,Oral Cavity,Negative,Bacteroidetes,Prevotella ,1.44,Anaerobe,Nonmotile
+HM-1103,1.72,Prevotella sp.,S7-1-8,Urogenital Tract,Negative,Bacteroidetes,Prevotella ,1.17,,
