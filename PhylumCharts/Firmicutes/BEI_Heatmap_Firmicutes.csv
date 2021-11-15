@@ -1,0 +1,81 @@
+﻿HM Number,Normalized Western,Bacteria ,Strain,Source,Gram,Phylum,Genus ,Count_Normalized,Oxygen,Motility
+HM-853,0.09967414,Acidaminococcus sp.,HPA0509,GI Tract,Negative,Firmicutes,Acidaminococcus ,0.47,,
+HM-81,0.56817626,Acidaminococcus sp.,D21,GI Tract,Negative,Firmicutes,Acidaminococcus ,0.66,,
+HM-1034,0.16649418,Anaerococcus lactolyticus,CC31C,GI Tract,Positive,Firmicutes,Anaerococcus ,0.53,,
+HM-1292,0.59158206,Anaerococcus hydrogenalis,MJR7738A,Vagina,Positive,Firmicutes,Anaerococcus ,0.57,,
+HM-220,5.84113325,Anaerostipes sp.,3_2_56FAA,GI Tract,Positive,Firmicutes,Anaerostipes ,1.94,,
+HM-1192,0.07,Catabacter hongkongensis,AB8_9,GI Tract,Positive,Firmicutes,Catabacter ,0.33,,
+HM-1182 ,1.326593,Clostridiales sp.,S9 PR-1,Vagina,Positive,Firmicutes,Clostridiales ,1.19,,
+HM-1098,2.16,Clostridiales bacterium,S5-A14a,Vagina,Positive,Firmicutes,Clostridiales ,1.94,,
+HM-793,2.94,Clostridiales bacterium,HPP0074,GI Tract,Positive,Firmicutes,Clostridiales ,3.1,,
+HM-306,0.36,Clostridium clostridioforme,2_1_49FAA,GI Tract,Positive,Firmicutes,Clostridium ,0.48,Obligate anaerobe,Motile
+HM-315,0.48,Clostridium citroniae,WAL-17108,GI Tract,Positive,Firmicutes,Clostridium ,0.74,Obligate anaerobe,Motile
+HM-1044,0.53,Clostridium orbiscindens,CC43_001K,unknown,Positive,Firmicutes,Clostridium ,0.74,,
+HM-303,0.63,Clostridium orbiscindens,1_3_50AFAA,GI Tract,Positive,Firmicutes,Clostridium ,0.6,Obligate anaerobe,Motile
+HM-36,0.63,Clostridium sp.,7_2_43FAA,GI Tract,Positive,Firmicutes,Clostridium ,0.82,,
+HM-1041,0.65,Clostridium cadaveris,CC88A,GI Tract,Positive,Firmicutes,Clostridium ,0.84,,
+HM-746,0.91,Clostridium difficile,002-P50-2011,unknown,Positive,Firmicutes,Clostridium ,1.03,,
+HM-318,1.06,Clostridium bolteae,WAL-14578,GI Tract,Positive,Firmicutes,Clostridium ,1.01,Obligate anaerobe,Motile
+HM-173,1.24,Clostridium innocuum,6_1_30,GI Tract,Positive,Firmicutes,Clostridium ,1.01,Anaerobe,Motile
+HM-1039,2.12,Clostridium cadaveris,CC40_001C,unknown,Positive,Firmicutes,Clostridium ,3.02,,
+HM-309,2.31,Clostridium symbiosum,WAL-14163,GI Tract,Positive,Firmicutes,Clostridium ,1.67,Obligate anaerobe,Motile
+HM-287,2.41,Clostridium sp.,HGF2,GI Tract,Positive,Firmicutes,Clostridium ,1.68,Anaerobe,
+HM-745,5.06,Clostridium difficile,70-100-2010,GI Tract,Positive,Firmicutes,Clostridium ,3.98,,
+HM-304,0.13,Collinsella sp.,4_8_47FAA,GI Tract,Positive,Firmicutes,Collinsella ,0.28,Anaerobe,Nonmotile
+HM-85,2.1,Coprobacillus sp.,D6 (29_1),GI Tract,Positive,Firmicutes,Coprobacillus ,1.54,,
+HM-794,0.33,Coprococcus sp.,HPP0048,GI Tract,Positive,Firmicutes,Coprococcus ,0.65,,
+HM-300,0.26,Dorea formicigenerans,4_6_53AFAA,GI Tract,Positive,Firmicutes,Dorea ,0.65,Anaerobe,
+HM-968 ,0.076034,Enterococcus faecium,ERV102,Oral Cavity,Positive,Firmicutes,Enterococcus ,0.568,,
+HM-432,2.16,Enterococcus faecalis,TX2137,GI Tract,Positive,Firmicutes,Enterococcus ,3.18,Facultative,
+HM-180,2.05,Erysipelotrichaceae sp.,6_1_45,GI Tract,Positive,Firmicutes,Erysipelotrichaceae ,1.51,,
+HM-473,2.14,Faecalibacterium prausnitzii,KLE1255,GI Tract,Positive,Firmicutes,Faecalibacterium ,1.76,Facultative,Nonmotile
+HM-1285,1.34,Finegoldia magna,GED7760A,Vagina,Positive,Firmicutes,Finegoldia ,1.02,,
+HM-241 ,2.02539985,Gemella sanguinis,M325,Sputum,Positive,Firmicutes,Gemella ,2.273,Facultative,Motile
+HM-240 ,2.69567216,Gemella morbillorum,M424,Sputum,Positive,Firmicutes,Gemella ,3.193,Facultative,Motile
+HM-308,0.34,Hungatella hathewayi,WAL-18680,GI Tract,Positive,Firmicutes,Hungatella ,0.53,Obligate anaerobe,Motile
+HM-702,0.8455582,Lactobacillus iners,Lactin V 09 (V1)-c,Vagina,Positive,Firmicutes,Lactobacillus ,0.83,,
+HM-647 ,1.016954,Lactobacillus gasseri,224-1,Vagina,Positive,Firmicutes,Lactobacillus ,,Microaerophilic,Nonmotile
+HM-646 ,1.083933,Lactobacillus jensenii,208-1,Vagina,Positive,Firmicutes,Lactobacillus ,1,Anaerobe,
+HM-478,1.12388864,Lactobacillus parafarraginis,F0439,Oral Cavity,Positive,Firmicutes,Lactobacillus ,1.09,Facultative,Nonmotile
+HM-399,1.14529632,Lactobacillus gasseri,EX336960VC02,Vagina,Positive,Firmicutes,Lactobacillus ,1.02,,
+HM-643,1.16328958,Lactobacillus johnsonii,135-1-CHN,Vagina,Positive,Firmicutes,Lactobacillus ,0.98,Microaerophilic,Nonmotile
+HM-375,1.2699631,Lactobacillus crispatus,EX849587VC07,Vagina,Positive,Firmicutes,Lactobacillus ,1.02,,
+HM-106,1.86405262,Lactobacillus rhamnosus,LMS2-1,GI Tract,Positive,Firmicutes,Lactobacillus ,1.33,Facultative,Nonmotile
+HM-1048,2.1539444,Listeria monocytogenes,CC70B,GI Tract,Positive,Firmicutes,Listeria ,1.83,,
+HM-1083 ,1.122794,Megasphaera sp.,DNF00872,Vagina,Negative,Firmicutes,Megasphaera ,,,
+HM-1049,0.15,Paenibacillus barengoltzii,CC33_002B,GI Tract,Positive,Firmicutes,Paenibacillus ,0.55,,
+HM-1161,0.21,Peptoniphilus lacrimalis,DNF00528,Vagina,Positive,Firmicutes,Peptoniphilus ,0.54,,
+HM-1051,0.11,Peptostreptococcus sp.,CC14N,unknown,Positive,Firmicutes,Peptostreptococcus ,0.53,,
+HM-179,1.25,Phascolarctobacterium sp.,3_1_syn4,GI Tract,Negative,Firmicutes,Phascolarctobacterium ,1.11,,
+HM-79,2.19,Ruminococcaceae sp.,D16,GI Tract,Positive,Firmicutes,Ruminococcaceae ,1.76,,
+HM-1057,0.15,Ruminococcus lactaris,CC59_002D,unknown,Positive,Firmicutes,Ruminococcus ,0.53,,
+HM-1056,0.88,Ruminococcus gnavus,CC55_001C,unknown,Positive,Firmicutes,Ruminococcus ,0.85,,
+HM-270,0.64,Selenomonas noxia,F0398,Oral Cavity,Negative,Firmicutes,Selenomonas ,0.68,Anaerobe,Motile
+HM-1136,0.85,Selenomonas sp.,F0426,Oral Cavity,Negative,Firmicutes,Selenomonas ,0.8,,
+HM-564,1.48,Selenomonas sp.,F0430,Oral Cavity,Positive,Firmicutes,Selenomonas ,1.27,Anaerobe,Motile
+HM-882,0.24,Shuttleworthia sp.,MSX8B,Oral Cavity,Positive,Firmicutes,Shuttleworthia ,0.42,,
+HM-1059,0.6,Solobacterium moorei,CC57E,unknown,Positive,Firmicutes,Solobacterium ,0.9,,
+HM-1058,1.19,Solobacterium moorei,CC14Y,unknown,Positive,Firmicutes,Solobacterium ,1.09,,
+HM-117 ,0.07675857,Staphylococcus capitis,SK14,Skin ,Positive,Firmicutes,Staphylococcus ,,Facultative,Nonmotile
+HM-140 ,0.23902279,Staphylococcus epidermidis,BCM0060,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-120 ,0.26711365,Staphylococcus warneri,SK66,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-141,0.723277464,Staphylococcus lugdunensis,M23590,Skin ,Positive,Firmicutes,Staphylococcus ,,Facultative,Nonmotile
+HM-143,0.767017382,Staphylococcus caprae,M23864:W1,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-466,0.796152974,Staphylococcus aureus,MRSA131,Skin ,Positive,Firmicutes,Staphylococcus ,,,
+HM-119,1.273568623,Staphylococcus hominis,SK119,Skin ,Positive,Firmicutes,Staphylococcus ,2,Facultative,Nonmotile
+HM-1164,1.694081639,Staphylococcus haemolyticus,DNF00585,Vagina,Positive,Firmicutes,Staphylococcus ,1.53,,
+HM-480,1.1,Stomatobaculum longum,ACC2,Oral Cavity,Negative,Firmicutes,Stomatobaculum ,1.05,Facultative,Nonmotile
+HM-262 ,0.15440341,Streptococcus mitis,F0392,Oral Cavity,Positive,Firmicutes,Streptococcus ,,Anaerobe,
+HM-885,0.225506563,Streptococcus sp.,CM7,Oral Cavity,Positive,Firmicutes,Streptococcus ,0.5,,
+HM-561,0.363808963,Streptococcus vestibularis,F0396,Oral Cavity,Positive,Firmicutes,Streptococcus ,0.405,Anaerobe,
+HM-121 ,0.74646938,Streptococcus salivarius,SK126,Skin ,Positive,Firmicutes,Streptococcus ,,Facultative,Nonmotile
+HM-272,0.980835615,Streptococcus gallolyticus,TX20005,Blood,Positive,Firmicutes,Streptococcus ,0.97,Aerobe,Nonmotile
+HM-163 ,1.40151822,Streptococcus cristatus,F0329,Oral Cavity,Positive,Firmicutes,Streptococcus ,,Anaerobe,
+HM-1063,1.8650856,Streptococcus sobrinus,W1703,Oral Cavity,Positive,Firmicutes,Streptococcus ,1.216,,
+HM-1060,2.69,Streptococcus parasanguinis,CC87K,GI Tract,Positive,Firmicutes,Streptococcus ,2.18,,
+HM-475,3.71,Streptococcus downei,F0415,Oral Cavity,Positive,Firmicutes,Streptococcus ,3.9,Anaerobe,Nonmotile
+HM-1096,2.34,Tissierellia bacterium,S5-A11,Vagina,Positive,Firmicutes,Tissierellia ,1.55,,
+HM-1301,0.27,Veillonella atypica,CMW7756B,Vagina,Negative,Firmicutes,Veillonella ,0.44,,
+HM-778,0.66,Veillonella sp.,ACP1,Oral Cavity,Negative,Firmicutes,Veillonella ,0.7,,
+HM-1157,1.62,Veillonella montpellierensis,DNF00314,Vagina,Negative,Firmicutes,Veillonella ,1.14,Anaerobe,Nonmotile
+HM-1200,0.93306114,Weissella cibaria,F16_1,GI Tract,Positive,Firmicutes,Weissella ,0.95,,
