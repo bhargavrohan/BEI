@@ -170,12 +170,12 @@ HM-242,0.347607428,Neisseria mucosa,C102,Sputum,Negative,Proteobacteria,Neisseri
 HM-91,0.626294489,Neisseria sp.,F0314,Oral Cavity,Negative,Proteobacteria,Neisseria ,0.703030303,Aerobe,Nonmotile,BEI68
 HM-107,0.722086656,Acinetobacter radioresistens,SK82,Skin ,Negative,Proteobacteria,Acinetobacter ,0.593939394,Aerobe,Nonmotile,BEI26
 HM-87,0.88,Shigella sp.,D9,GI Tract,Negative,Proteobacteria,Shigella ,1,Facultative,Motile,BEI222
-E.coliOP50,1,E. Coli OP50,OP50,Lab stock,Negative,Proteobacteria,Escherichia ,1,,,#N/A
+E.coliOP50,1,E. Coli OP50,OP50,Lab stock,Negative,Proteobacteria,Escherichia ,1,,,
 HM-624,1.15007142,Klebsiella oxytoca,MIT 10-5243,Blood,Negative,Proteobacteria,Klebsiella ,2,,,BEI42
 HM-648,1.587924318,Acetobacteraceae sp.,AT-5844,Infection,Negative,Proteobacteria,Acetobacteraceae ,1.891891892,,,BEI41
 HM-115,1.897067007,Neisseria flavescens,SK114,Skin ,Negative,Proteobacteria,Neisseria ,2.216216216,Aerobe,Nonmotile,BEI30
 HM-235,2.763020066,Achromobacter xylosoxidans,C54,Sputum,Negative,Proteobacteria,Achromobacter ,2.702702703,,,BEI119
-PAO1,3.09010115,PAO1,PAO1,Lab stock,Negative,Proteobacteria,Pseudomonas ,#N/A,,,#N/A
+PAO1,3.09010115,PAO1,PAO1,Lab stock,Negative,Proteobacteria,Pseudomonas ,,,,
 HM-751,4.647839543,Klebsiella pneumoniae subsp. pneumoniae,WGLW2,Sputum,Negative,Proteobacteria,Klebsiella ,3.733333333,,,BEI62
 HM-1,0.21 ,Oxalobacter formigenes,OxCC13,GI Tract,Negative,Proteobacteria,Oxalobacter ,0.45 ,Anaerobe,,BEI203
 HM-273,0.24 ,Helicobacter pylori,83,GI Tract,Negative,Proteobacteria,Helicobacter,0.60 ,Aerobe,Motile,BEI60
