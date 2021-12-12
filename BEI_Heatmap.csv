@@ -1,4 +1,4 @@
-﻿HM Number,NormalizedWestern,Bacteria,Strain,Source,Gram,Phylum,Genus,Count_Normalized,Oxygen,Motility,BEI#,Significance,HeatmapLabel
+﻿HM Number,NormalizedWestern,Bacteria,Strain,Source,Gram,Phylum,Genus,Count_Normalized,Oxygen,Motility,BEI_Num,Significance,HeatmapLabel
 HM-98,0.19375594,Actinomyces israelii,F0345,Oral Cavity,Positive,Actinobacteria,Actinomyces,0.17647059,,,BEI118,**,HM-98 - Actinomyces israelii
 HM-1089,0.58563634,Actinomyces urogenitalis,S6-C4,Vagina,Positive,Actinobacteria,Actinomyces,0.65,,,BEI80,Insignificant,HM-1089 - Actinomyces urogenitalis
 HM-94,0.83246358,Actinomyces odontolyticus,F0309,Oral Cavity,Positive,Actinobacteria,Actinomyces,0.955,Facultative,Nonmotile,BEI116,Insignificant,HM-94 - Actinomyces odontolyticus
