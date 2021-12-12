@@ -215,5 +215,5 @@ HM-158,15.33,Ralstonia sp.,5_2_56FAA,GI Tract,Negative,Proteobacteria,Ralstonia,
 HM-87,0.88,Shigella sp.,D9,GI Tract,Negative,Proteobacteria,Shigella,1,Facultative,Motile,BEI222,Insignificant,HM-87 - Shigella sp.
 HM-852,1.6,Sutterella wadsworthensis,HGA0223,GI Tract,Negative,Proteobacteria,Sutterella,0.183908046,,,BEI220,Insignificant,HM-852 - Sutterella wadsworthensis
 HM-575,3.6450412,Treponema denticola,AL-2,Oral Cavity,Negative,Spirochaetes,Treponema,3.76,,,BEI243,***,HM-575 - Treponema denticola
-HM-569,5.1,Treponema denticola,SP37,Oral,Negative,Spirochaetes,Treponema,2.252873563,,,BEI154,**,HM-569 - Treponema denticola
+HM-569,5.1,Treponema denticola,SP37,Oral Cavity,Negative,Spirochaetes,Treponema,2.252873563,,,BEI154,**,HM-569 - Treponema denticola
 HM-844,0.38799765,Akkermansia sp.,KLE1605,GI Tract,Negative,Verrucomicrobia,Akkermansia,0.52941176,Aerobe,Motile,BEI5,Insignificant,HM-844 - Akkermansia sp.
