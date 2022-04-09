@@ -23,9 +23,11 @@ HM-30 - Bifidobacterium sp.,1.2
 HM-856 - Bifidobacterium breve,2.81
 HM-1295 - Corynebacterium sp.,0.13057049
 HM-784 - Corynebacterium sp.,0.27
+HM-1153 - Corynebacterium tuscaniense,0.66649239
 HM-109 - Corynebacterium amycolatum,1.205243423
 HM-857 - Dermabacter sp.,2.26
 HM-1099 - Eggerthella sp.,0.97
+HM-1105 - Gardnerella vaginalis,0.70323126
 HM-841 - Microbacterium sp.,0.07
 HM-114 - Micrococcus luteus,0.858082371
 HM-125 - Mobiluncus mulieris,0.22985502
@@ -37,6 +39,7 @@ HM-8 - Propionibacterium acidifaciens -- F0233,0.72
 HM-491 - Propionibacterium acnes,2.07474547
 HM-209 - Propionibacterium propionicum -- F0230,2.66
 HM-843 - Propionibacterium sp. -- F0372,6.3
+HM-116 - Rhodococcus erythropolis,1.16285736
 HM-245 - Rothia dentocariosa,0.68656798
 HM-818 - Rothia aeria,0.75487819
 HM-1055 - Rothia mucilaginosa,2.03
@@ -85,6 +88,7 @@ HM-1165 - Prevotella bivia,0.93
 HM-136 - Prevotella timonensis,1.2
 HM-271 - Prevotella nigrescens,1.33
 HM-1103 - Prevotella sp.,1.72
+HM-111 - Deinococcus grandis,1.61813828
 HM-853 - Acidaminococcus sp.,0.09967414
 HM-81 - Acidaminococcus sp.,0.56817626
 HM-1034 - Anaerococcus lactolyticus,0.16649418
@@ -100,6 +104,7 @@ HM-1044 - Clostridium orbiscindens,0.53
 HM-303 - Clostridium orbiscindens,0.63
 HM-36 - Clostridium sp.,0.63
 HM-1041 - Clostridium cadaveris,0.65
+HM-88 - Clostridium difficile,0.85251722
 HM-746 - Clostridium difficile,0.91
 HM-318 - Clostridium bolteae,1.06
 HM-173 - Clostridium innocuum,1.24
@@ -141,6 +146,7 @@ HM-1172 - Megasphaera micronuciformis,3.3
 HM-13 - Oribacterium sinus,0.31
 HM-1030 - Oscillibacter sp.,0.85
 HM-1049 - Paenibacillus barengoltzii,0.15
+HM-788 - Paenisporosarcina sp.,0.4664144
 HM-207 - Parvimonas sp. oral taxon 110,0.27
 HM-263 - Peptoniphilus sp. oral taxon 836,0.16
 HM-1161 - Peptoniphilus lacrimalis,0.21
@@ -169,8 +175,11 @@ HM-480 - Stomatobaculum longum,1.1
 HM-262 - Streptococcus mitis,0.15440341
 HM-885 - Streptococcus sp.,0.225506563
 HM-561 - Streptococcus vestibularis,0.363808963
+HM-368 - Streptococcus intermedius,0.45287646
 HM-121 - Streptococcus salivarius,0.74646938
 HM-272 - Streptococcus gallolyticus,0.980835615
+HM-282 - Streptococcus anginosus,1.21125873
+HM-145 - Streptococcus pneumoniae,1.28248024
 HM-163 - Streptococcus cristatus,1.40151822
 HM-1063 - Streptococcus sobrinus,1.8650856
 HM-1060 - Streptococcus parasanguinis,2.69
@@ -191,8 +200,10 @@ HM-648 - Acetobacteraceae sp.,1.587924318
 HM-235 - Achromobacter xylosoxidans,2.763020066
 HM-107 - Acinetobacter radioresistens,0.722086656
 HM-206 - Aggregatibacter aphrophilus,0.64510257
+HM-298 - Arcobacter butzleri,1.97839471
 HM-297 - Campylobacter upsaliensis,0.35
 HM-296 - Campylobacter coli,0.68
+HM-477 - Cardiobacterium valvarum,0.78373121
 HM-299 - Citrobacter portucalensis,3.09
 HM-34 - Citrobacter sp.,8.17
 E.coliOP50 - E. Coli OP50,1
@@ -211,6 +222,7 @@ HM-115 - Neisseria flavescens,1.897067007
 HM-1 - Oxalobacter formigenes,0.21
 HM-791 - Plesiomonas sp.,0.31021294
 PAO1 - PAO1,3.09010115
+HM-332 - Psychrobacter sp.,2.18896142
 HM-158 - Ralstonia sp.,15.33
 HM-87 - Shigella sp.,0.88
 HM-852 - Sutterella wadsworthensis,1.6
